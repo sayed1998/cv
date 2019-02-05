@@ -7,3 +7,8 @@ h3{
 body{
   background-color: PowderBlue;
 }
+p,li{
+    font-size:16px;
+    line-hieght:2;
+    letter-spacing:1px;
+}
